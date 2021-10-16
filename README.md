@@ -1,12 +1,12 @@
 # PdiskUploaderBot
 
-This is the source code of [PdiskUploaderBot](http://t.me/PdiskUploaderAJBot).
-And the developer of this bot is [AJTimePyro](https://t.me/AJTimePyro), His Telegram [Channel](http://t.me/AJPyroVerse) & [Group](http://t.me/AJPyroVerseGroup).
+This is the source code of Telegram to PDisk Uploder Bot.
+And the developer of this bot is [EmpireBots](https://t.me/joinchat/kjunC9ncso80MzNl), His Telegram [Channel](http://t.me/EmpireBots).
 
 You can use this source code in any way but you need to **give credit** to its
 Developer AJTimePyro.
 
-Don't Forget to give a Star, and Follow my [Github Account](https://github.com/AJTimePyro).
+Don't Forget to give a Star, and Follow my [Github Account](https://github.com/gigameher473).
 
 
 ## Credentials Requirement
@@ -18,7 +18,7 @@ Don't Forget to give a Star, and Follow my [Github Account](https://github.com/A
 ## Direct Deploy
 Click Below Button to Deploy your Bot.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AJTimePyro/PdiskUploaderBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gigameher473/EmpirePDiskUploder)
 
 ## Support Telegram Group and Channel
 
