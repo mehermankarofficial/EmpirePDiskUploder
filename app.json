@@ -13,7 +13,7 @@
         "ajtimepyro",
         "uploader"
     ],
-    "repository" : "https://github.com/AJTimePyro/PdiskUploaderBot",
+    "repository" : "https://github.com/gigameher473/EmpirePDiskUploder",
     "success_url" : "https://t.me/PdiskUploaderAJBot",
     "env" : {
         "BOT_TOKEN" : {
